@@ -1,0 +1,38 @@
+.box{
+    position: absolute;
+
+    left: 400px;
+    bottom: 250px;
+
+    width: 800px;
+    height: 300px;
+
+    background-color: blue;
+
+    border-radius: 10px 10px;
+
+    font-family: 'Montserrat', sans-serif;
+
+    padding-left: 50px;
+}
+
+.box2{
+    position: absolute;
+    color: white;
+}
+
+button{
+    width: 130px;
+    height: 30px;
+
+    border-radius: 10px 10px;
+    border: 0 solid white;
+}
+
+img{
+    position: absolute;
+    bottom: -95px;
+    left: 470px;
+    
+    height: 400px;
+}
